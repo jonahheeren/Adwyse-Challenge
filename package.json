@@ -4,6 +4,7 @@
   "description": "problems for internship interview",
   "main": "app.js",
   "scripts": {
+    "start": "node index.js",
     "test": "mocha || true"
   },
   "author": "vritant",
